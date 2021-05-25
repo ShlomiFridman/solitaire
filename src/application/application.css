@@ -1,0 +1,52 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+GridPane{
+	-fx-background-color: #3DEC55;
+    -fx-background-radius: 25px;
+}
+CardsPane.cardsPane{
+	-fx-background-color:#8fbc72;	
+	-fx-border-style: hidden solid hidden hidden;
+	-fx-border-width: 0.25;
+	-fx-border-color: black;
+}
+CardsPane.firstPane{	
+	-fx-border-style: hidden solid hidden solid;
+}
+VBox.infoVBox{
+	-fx-background-color:antiquewhite;
+    -fx-background-radius: 16px;
+	-fx-border-color: black;
+    -fx-border-radius: 14px;
+}
+Button.resetBtn{
+	-fx-background-color:#5d67b8;
+	-fx-text-fill:white;
+	-fx-focus-color: transparent;
+	-fx-faint-focus-color: transparent;
+}
+Label.selected{
+	-fx-border-color: black;
+    -fx-border-radius: 7px;
+	-fx-border-width: 0.5;
+}
+
+Label.drawSelect{
+	-fx-text-fill:#E1F8DC;
+}
+
+Button.hover{
+	-fx-background-color:#4d67b8;
+}
+
+Button.clicked{
+	-fx-background-color:#3d67b8;
+}
+/*
+Button.resetBtn:hover{
+	-fx-background-color:#3d468b;
+}
+Button.resetBtn:active{
+	-fx-background-color:#5d67b8;
+}
+*/
