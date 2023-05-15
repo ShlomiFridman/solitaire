@@ -1,7 +1,6 @@
 # solitaire
 
-the project uses JavaFX, needs JDK11 to run,
-to open the game execute Solitaire.jar file
+the project uses JavaFX, requires bellsoft jdk11.
 
 klondike solitaire game,
 to play click and drag the cards with the mouse,
